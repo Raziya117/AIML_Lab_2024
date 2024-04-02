@@ -13,6 +13,8 @@
 
 7.[Lab-07](https://github.com/Raziya117/AIML_Lab_2024/blob/main/Lab_07.ipynb)
 
+8.[Lab-08](https://github.com/Raziya117/AIML_Lab_2024/blob/main/Lab-8.ipynb)
+
 
 
 
