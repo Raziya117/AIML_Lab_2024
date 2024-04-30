@@ -15,7 +15,7 @@
 
 8.[Lab-08](https://github.com/Raziya117/AIML_Lab_2024/blob/main/Lab-8.ipynb)
 
-9.[Project-Customer Feedback Analysis](https://github.com/Raziya117/AIML_Lab_2024/blob/main/Customer%20_feedback_Analysis.ipynb)
+9.[Project-Customer Feedback Analysis](https://github.com/Raziya117/AIML_Lab_2024/blob/main/Project-customer_feedback_analysis.ipynb)
 
 10.[Lab-09](https://github.com/Raziya117/AIML_Lab_2024/blob/main/Lab-09.ipynb)
 
